@@ -4,20 +4,8 @@ plugins:
 
 # Basic Information 
 title: Anh Tô-Lefebvre
-position: Neuroscience Student
-affiliation: Sorbonne Université
-email: anhlefebvre@protonmail.ch
+logo: /assets/img/IMG_2345.jpeg
 
-#Links
-cv_link: assets/files/CV - Anh To-Lefebvre.pdf
-github_link: https://github.com/anhlefebvre
-linkedin: https://www.linkedin.com/anhlefebvre
-
-# Images
-avatar: /assets/img/IMG_2345.jpeg
-
-#Font
-font: "Sans Serif"
 
 
 
