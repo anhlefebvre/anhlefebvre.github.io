@@ -1,18 +1,20 @@
+# Basic Information 
 title: Anh Tô-Lefebvre
-logo: /assets/img/IMG_2345.jpeg
-theme: jekyll-theme-minimal
+position: Neuroscience Student
+affiliation: Sorbonne Université
+email: anhlefebvre@protonmail.ch
 
-description: >
-  Neurobiology, linguistics, and cognitive science student.  
-  Portfolio and projects.
-show_downloads: false
+#Links
+cv_link: assets/files/CV - Anh To-Lefebvre.pdf
+github_link: https://github.com/anhlefebvre
+linkedin: https://www.linkedin.com/anhlefebvre
 
-#Social links
-github_username: anhlefebvre
-linkedin_username: anhlefebvre
+# Images
+avatar: /assets/img/IMG_2345.jpeg
 
-# Build settings
-markdown: kramdown
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+#Font
+font: "Sans Serif"
+
+remote_theme: yaoyao-liu/minimal-light
+
+
