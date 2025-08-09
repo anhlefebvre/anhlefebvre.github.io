@@ -1,4 +1,18 @@
 title: Anh Tô-Lefebvre
 logo: /assets/img/IMG_2345.jpeg
-show_downloads: true
 theme: jekyll-theme-minimal
+
+description: >
+  Neurobiology, linguistics, and cognitive science student.  
+  Portfolio and projects.
+show_downloads: false
+
+#Social links
+github_username: anhlefebvre
+linkedin_username: anhlefebvre
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
