@@ -37,7 +37,9 @@ Studied English and French linguistics, with a focus on language acquisition and
 
 **International Tour Guide** – *Withlocals / EXO Travel*  
 *2015 – 2019* — 4½ years, Vietnam  
-- Guided German- and English-speaking tourists through southern Vietnam (from Saigon to the Mekong Delta). Designed and adapted tours for small, private, and family groups, focusing on authentic cultural experiences such as local markets, traditional workshops, and village life, while avoiding overcrowded tourist areas. Enhanced cross-cultural understanding and ensure a personalised experience for each group.
+- Guided German- and English-speaking tourists through southern Vietnam (from Saigon to the Mekong Delta).
+- Designed and adapted tours for small, private, and family groups, focusing on authentic cultural experiences such as local markets, traditional workshops, and village life, while avoiding overcrowded tourist areas.
+- Enhanced cross-cultural understanding and ensure a personalised experience for each group.
 
 ---
 ## Projects
