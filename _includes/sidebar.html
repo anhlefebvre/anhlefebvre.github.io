@@ -1,0 +1,26 @@
+<!-- _includes/sidebar.html -->
+<div class="sidebar">
+  {% if site.logo %}
+    <img src="{{ site.logo | relative_url }}" class="logo" alt="{{ site.title }} logo">
+  {% endif %}
+
+  <h1 class="site-title">{{ site.title }}</h1>
+
+  {% if site.description %}
+    <p class="site-description">{{ site.description }}</p>
+  {% endif %}
+
+  {% if site.github and site.github.owner_url %}
+    <p><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+  {% endif %}
+
+  <!-- Custom block -->
+  <hr>
+  <h3>Contact</h3>
+  <ul style="list-style:none; padding-left:0;">
+    <li><a href="mailto:your.email@domain.com">your.email@domain.com</a></li>
+    <li><a href="https://www.linkedin.com/in/your-handle/">LinkedIn</a></li>
+    <li><a href="https://scholar.google.com/citations?user=YOURID">Google Scholar</a></li>
+    <li><a href="/cv.pdf">Download CV</a></li> <!-- optional -->
+  </ul>
+</div>
