@@ -78,6 +78,18 @@
 	</a></p></div>
         {% endif %}
 
+		{% if site.github_profile or site.github.owner_url %}
+	 <div class="icontext">
+		<p class="view">
+	      <a href="{{ site.github_profile | default: site.github.owner_url }}" target="_blank">
+	        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	        <i id="icon" class="fa fa-github"></i>
+	        <span id="text">&nbsp;&nbsp;GitHub</span>
+	      </a>
+	    </p>
+	  </div>
+	{% endif %}
+
         
 	
         {% if site.show_downloads %}
