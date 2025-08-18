@@ -1,6 +1,13 @@
-title: Minimal theme
-logo: /assets/img/logo.png
+title: Anh To-Lefebvre
+logo: /assets/img/avatar.jpeg
 description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+linkedin: https://www.linkedin.com/in/anhlefebvre
+email: anhlefebvre@protonmail.ch
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+- jekyll-seo-tag
+- jemoji
