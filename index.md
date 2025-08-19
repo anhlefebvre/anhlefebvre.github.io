@@ -46,14 +46,14 @@ Studied English and French linguistics, with a focus on language acquisition and
 
 ---
 ## Projects
-**Disentangling the Effects of Meaningfulness on Item- and Binding Memory** <br>
+**Disentangling the Effects of Meaningfulness on Item- and Binding Memory** (In preparation) <br>
 Investigated how semantic meaning influences visual working memory by replicating prior experiments and applying a Bayesian hierarchical framework. The findings showed that meaningful stimuli enhance both item memory and binding memory, thus supporting the Binding Hypothesis.
 
 <span class="tag">LabJS</span>
 <span class="tag">Bayesian Hierarchical Modelling</span>
 <span class="tag">R language</span>
 
-**Report: Assessment of Two Unknown Compounds in Depression-like and Anxiety Behaviour in Wild-Type SWISS mice** <br>
+**Report: Assessment of Two Unknown Compounds in Depression-like and Anxiety Behaviour in Wild-Type SWISS mice** [Read report (PDF)](/assets/files/Report_Neuropharmacology.pdf)  <br>
 Tested two novel compounds for antidepressant and anxiolytic effects in a murine model using behavioral paradigms (OFT, EPM, TST). Results suggested potential antidepressant properties for one compound, though further research is needed to confirm efficacy.
 
 <span class="tag">Murine Behavioural Experiments</span>
