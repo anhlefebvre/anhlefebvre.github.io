@@ -49,6 +49,10 @@ Studied English and French linguistics, with a focus on language acquisition and
 **Disentangling the Effects of Meaningfulness on Item- and Binding Memory** <br>
 Investigated how semantic meaning influences visual working memory by replicating prior experiments and applying a Bayesian hierarchical framework. The findings showed that meaningful stimuli enhance both item memory and binding memory, thus supporting the Binding Hypothesis.
 
+<span class="tag">LabJS</span>
+<span class="tag">#Bayesian Hierarchical Modelling</span>
+<span class="tag">R language</span>
+
 `LabJS`, `Bayesian Hierarchical Modelling`, `R language`
 
 **Report: Assessment of Two Unknown Compounds in Depression-like and Anxiety Behaviour in Wild-Type SWISS mice** <br>
