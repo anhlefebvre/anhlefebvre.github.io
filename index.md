@@ -60,7 +60,7 @@ Tested two novel compounds for antidepressant and anxiolytic effects in a murine
 <span class="tag">ANOVA</span>
 <span class="tag">JASP</span>
 
-**Report: Learning Behaviour in Bumblebees: An Analysis with a Control Group** [Read report (PDF)](/assets/files/Learning behaviour in bumblebee - R.pdf)<br>
+**Report: Learning Behaviour in Bumblebees: An Analysis with a Control Group** [Read report (PDF)](/assets/files/learning_behaviour_bumblebee.pdf)<br>
 Analysed learning behaviour of bumblebees (Bombus terrestris) in a Y-maze using trajectory data from 187 trials. Results showed improved navigation speed and preference for reinforced cues over successive trials, establishing a baseline for stressor studies.
 
 <span class="tag">Animal Behavioural Data Analysis</span>
@@ -73,7 +73,7 @@ Developing Python script to extract, preprocess, and visualise hippocampal LFP d
 <span class="tag">MNE-Python</span>
 <span class="tag">LFP Signal Processing</span>
 
-**Les Gros Mots en français : quand la linguistique de corpus rencontre la sociolinguistique (En: Swearing in French: when corpus linguistics meets sociolinguistics)** [Read thesis (PDF)](/assets/files/Thèse_BA_0309.pdf)<br>
+**Les Gros Mots en français : quand la linguistique de corpus rencontre la sociolinguistique (En: Swearing in French: when corpus linguistics meets sociolinguistics)** [Read thesis (PDF)](/assets/files/thesis_BA_0309.pdf)<br>
 Analysed Quebec French swear word usage in the CFPQ, examining frequency, morphology, and euphemistic forms. Found that men swear more frequently overall, but women use swear words as often as men in same-sex conversations; women and older speakers favor euphemisms, and swearing peaks in speakers’ twenties.
 
 <span class="tag">AntConc</span>
@@ -87,25 +87,25 @@ Conducted a computational linguistics study comparing 300 fake and 300 real hote
 <span class="tag">Computational Linguistics</span>
 
 
-**Corpus-Based Sociolinguistic Analysis of the Swearword “Fuck” in Spoken British English** [Read report (PDF)](/assets/files/Ling326 - Assessment 2 - 26.01.pdf)<br>
+**Corpus-Based Sociolinguistic Analysis of the Swearword “Fuck” in Spoken British English** [Read report (PDF)](/assets/files/Ling326.pdf)<br>
 Analysed over 700 occurrences of the word 'fuck' and its variants in the BNC2014 corpus, showing that men use the word nearly twice as often as women, with the highest frequency among students and speakers aged 20–30. Frequent idiomatic patterns (e.g. 'fucking hell', 'what the fuck', 'fuck off') and auxiliary/emphatic uses were identified as the most common pragmatic functions.
 
 <span class="tag">BNClab</span>
 
 
-**Grammatical Functions of the Non-auxiliary *Can* inSingapore English Texting** [Read report (PDF)](/assets/files/Anh TO - Ling 501.pdf)<br>
+**Grammatical Functions of the Non-auxiliary *Can* inSingapore English Texting** [Read report (PDF)](/assets/files/Ling501.pdf)<br>
 Analysed 1,121 tokens of can from a Singaporean SMS corpus to investigate non-standard grammatical functions beyond auxiliary use. Found five distinct non-auxiliary roles (affirmative response, tag question, verb, discourse marker, serial verb), showing systematic substrate influence and identity-marking in Colloquial Singapore English.
 
 <span class="tag">Corpus Linguistics</span>
 <span class="tag">Pragmatics</span>
 
-**The Combination of Gesture and Speech during Parent-Child Interaction: A Longitudinal Case Study** [Read report (PDF)](/assets/files/Anh Lefebvre - Ling 301.pdf)<br>
+**The Combination of Gesture and Speech during Parent-Child Interaction: A Longitudinal Case Study** [Read report (PDF)](/assets/files/Ling301.pdf)<br>
 Analysed CHILDES video corpus of a monolingual British child (12–24 months) to examine gesture-speech use in natural parent-child interaction. Found that children gradually shift from imitating parental gestures to using them strategically for communication, with pointing strongly linked to early speech.
 
 <span class="tag">Corpus Analysis</span>
 
 
-**Essay: Could Neanderthals speak?** [Read report (PDF)](/assets/files/Ling 229 - Assessment 2 - 26.01.pdf)<br>
+**Essay: Could Neanderthals speak?** [Read report (PDF)](/assets/files/Ling229.pdf)<br>
 Reviewed fossil anatomy, genetics, and archaeological records to evaluate Neanderthal speech and symbolic communication. Concluded that Neanderthals likely possessed some spoken language and symbolic behavior, though not identical to modern humans.
 
 ---
