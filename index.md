@@ -50,50 +50,60 @@ Studied English and French linguistics, with a focus on language acquisition and
 Investigated how semantic meaning influences visual working memory by replicating prior experiments and applying a Bayesian hierarchical framework. The findings showed that meaningful stimuli enhance both item memory and binding memory, thus supporting the Binding Hypothesis.
 
 <span class="tag">LabJS</span>
-<span class="tag">#Bayesian Hierarchical Modelling</span>
+<span class="tag">Bayesian Hierarchical Modelling</span>
 <span class="tag">R language</span>
-
-`LabJS`, `Bayesian Hierarchical Modelling`, `R language`
 
 **Report: Assessment of Two Unknown Compounds in Depression-like and Anxiety Behaviour in Wild-Type SWISS mice** <br>
 Tested two novel compounds for antidepressant and anxiolytic effects in a murine model using behavioral paradigms (OFT, EPM, TST). Results suggested potential antidepressant properties for one compound, though further research is needed to confirm efficacy.
 
-`Murine Behavioural Experiments`, `ANOVA`, `JASP`
+<span class="tag">Murine Behavioural Experiments</span>
+<span class="tag">ANOVA</span>
+<span class="tag">JASP</span>
 
 **Report: Learning Behaviour in Bumblebees: An Analysis with a Control Group** <br>
 Analysed learning behaviour of bumblebees (Bombus terrestris) in a Y-maze using trajectory data from 187 trials. Results showed improved navigation speed and preference for reinforced cues over successive trials, establishing a baseline for stressor studies.
 
-`Animal Behavioural Data Analysis`, `R language`
+<span class="tag">Animal Behavioural Data Analysis</span>
+<span class="tag">R language</span>
 
 **Coding: Neurodata Analysis of Hippocampal Recordings: Preprocessing and Visualization in Python** <br>
 Developing Python script to extract, preprocess, and visualise hippocampal LFP data from NWB files. Implemented filtering, event annotation, and channel selection to prepare data for time-locked analyses.
 
-`Python`, `MNE-Python`, `LFP Signal Processing`*  
+<span class="tag">Python</span>
+<span class="tag">MNE-Python</span>
+<span class="tag">LFP Signal Processing</span>
 
 **Les Gros Mots en français : quand la linguistique de corpus rencontre la sociolinguistique (En: Swearing in French: when corpus linguistics meets sociolinguistics)** <br>
 Analysed Quebec French swear word usage in the CFPQ, examining frequency, morphology, and euphemistic forms. Found that men swear more frequently overall, but women use swear words as often as men in same-sex conversations; women and older speakers favor euphemisms, and swearing peaks in speakers’ twenties.
 
-`AntConc`, `Corpus Analysis`, `Sociolinguistics`*  
+<span class="tag">AntConc</span>
+<span class="tag">Corpus Analysis</span>
+<span class="tag">Sociolinguistics</span>
 
 **Computational Linguistic Analysis of Authentic and Deceptive Online Reviews** <br>
 Conducted a computational linguistics study comparing 300 fake and 300 real hotel reviews to identify linguistic markers of deception. Found differences in punctuation frequency, part-of-speech distributions (nouns, verbs), and distinctive n-gram patterns.
-  
-`Python`, `Computational Linguistics`
+
+<span class="tag">Python</span>
+<span class="tag">Computational Linguistics</span>
+
 
 **Corpus-Based Sociolinguistic Analysis of the Swearword “Fuck” in Spoken British English** <br>
 Analysed over 700 occurrences of the word 'fuck' and its variants in the BNC2014 corpus, showing that men use the word nearly twice as often as women, with the highest frequency among students and speakers aged 20–30. Frequent idiomatic patterns (e.g. 'fucking hell', 'what the fuck', 'fuck off') and auxiliary/emphatic uses were identified as the most common pragmatic functions.
 
-`BNClab`
+<span class="tag">BNClab</span>
+
 
 **Grammatical Functions of the Non-auxiliary *Can* inSingapore English Texting** <br>
 Analysed 1,121 tokens of can from a Singaporean SMS corpus to investigate non-standard grammatical functions beyond auxiliary use. Found five distinct non-auxiliary roles (affirmative response, tag question, verb, discourse marker, serial verb), showing systematic substrate influence and identity-marking in Colloquial Singapore English.
 
-`Corpus Linguistics`, `Pragmatics`
+<span class="tag">Corpus Linguistics</span>
+<span class="tag">Pragmatics</span>
 
 **The Combination of Gesture and Speech during Parent-Child Interaction: A Longitudinal Case Study** <br>
 Analysed CHILDES video corpus of a monolingual British child (12–24 months) to examine gesture-speech use in natural parent-child interaction. Found that children gradually shift from imitating parental gestures to using them strategically for communication, with pointing strongly linked to early speech.
 
-`Corpus Analysis`
+<span class="tag">Corpus Analysis</span>
+
 
 **Essay: Could Neanderthals speak?** <br>
 Reviewed fossil anatomy, genetics, and archaeological records to evaluate Neanderthal speech and symbolic communication. Concluded that Neanderthals likely possessed some spoken language and symbolic behavior, though not identical to modern humans.
