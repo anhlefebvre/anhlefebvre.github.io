@@ -99,7 +99,7 @@ Analysed 1,121 tokens of can from a Singaporean SMS corpus to investigate non-st
 <span class="tag">Corpus Linguistics</span>
 <span class="tag">Pragmatics</span>
 
-**The Combination of Gesture and Speech during Parent-Child Interaction: A Longitudinal Case Study** [Read report (PDF)](/assets/files/Ling_301.pdf)<br>
+**The Combination of Gesture and Speech during Parent-Child Interaction: A Longitudinal Case Study** [Read report (PDF)](/assets/files/Ling301.pdf)<br>
 Analysed CHILDES video corpus of a monolingual British child (12–24 months) to examine gesture-speech use in natural parent-child interaction. Found that children gradually shift from imitating parental gestures to using them strategically for communication, with pointing strongly linked to early speech.
 
 <span class="tag">Corpus Analysis</span>
