@@ -12,23 +12,27 @@ img {
         font-family: Arial, Helvetica, sans-serif;
       }
 
+/* each icon+label row */
 .icontext {
-        border: none;
-        display: inline-block;
-	width: 200px;
-        height: 30px;
-        margin: 0px;
-        padding: 0px;
-        width: 99%;
-      }
-      #text{
-	vertical-align: middle;
-        font-size: 15px;
+  display: flex;           /* instead of inline-block */
+  align-items: center;     /* perfect vertical centering */
+  gap: 8px;                /* space between icon and text */
+  margin: 0;
+  padding: 0;
+  width: 99%;
+  height: auto;            /* don't force 30px; let content size it */
 }
-      #icon {
-	vertical-align: middle;
-        font-size: 22px;
-      }
+
+/* make sure the icon has a consistent box */
+.icontext img,
+.icontext svg,
+.icontext i {
+  width: 22px;
+  height: 22px;
+  display: block;          /* removes baseline quirks */
+  object-fit: contain;
+}
+
 
 @import "jekyll-theme-minimal";
 
