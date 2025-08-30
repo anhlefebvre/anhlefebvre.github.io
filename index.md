@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Neuroscience student 
+# Neuroscience student 🧠
 I am a second-year Master's student in Cognitive and Behaviour Neurosciences with an interest in memory.  
 My motivation is to further develop my knowledge of neural mechanisms of working memory and episodic long-term memory through observing behavioural changes in neurodegenerative diseases.
 
