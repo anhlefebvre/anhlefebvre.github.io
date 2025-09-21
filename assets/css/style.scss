@@ -1,3 +1,4 @@
+
 ---
 ---
 ul {
@@ -120,10 +121,11 @@ hr.solid {
 }
 
 .meta {
-  color: #666;       
+  color: #777;       
   font-size: 0.9em;  
 }
 
 .desc {
-  color: #222;        
+  color: #444;        
+  margin-bottom: 8px; /* spacing before next entry */
 }
