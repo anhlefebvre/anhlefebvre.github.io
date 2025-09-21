@@ -2,26 +2,27 @@
 layout: default
 ---
 # Neuroscience student 🧠
-I am a second-year Master's student in Cognitive and Behaviour Neurosciences with an interest in memory.  
-My motivation is to further develop my knowledge of neural mechanisms of working memory and episodic long-term memory through observing behavioural changes in neurodegenerative diseases.
+
+I am a second-year Master's student in Cognitive and Behavioural Neuroscience at Sorbonne University in France, who have a strong interest in the neural mechanisms of working and long-term episodic memory. I am motivated to understand how memory processes are altered in pathologies, in which memory is affected. I hope to improve my understanding of memory deficits and their impact on our cognition and behaviour.
 
 ---
 
 ## Education
 
 **Master 2 Neurosciences** – *Sorbonne Université*  
-**Sept. 2025 – present**, Paris, France  
+Sept. 2025 – present, Paris, France  
+Focuses on social and emotional brain; neurobiology of psychiatric disorders; neural bases of cognitive functions; spatial navigation and memory.
 
 **Master 1 Neurosciences** – *Université Toulouse*  
-**Sept. 2024 – Aug. 2025**, Toulouse, France – **Grade:** 15/20  
+Sept. 2024 – Aug. 2025, Toulouse, France – Grade: 15/20  
 Focuses on brain function, genetic factors, plasticity, and clinical neuropsychology, with an emphasis on the molecular and behavioural changes related to neurological conditions that affect cognitive function.
 
 **Master 1 Cognitive Science** – *RPTU Kaiserslautern*  
-**Oct. 2023 – Sept. 2024**, Germany – **Grade:** 1.4 (*Very Good*)  
+Oct. 2023 – Sept. 2024, Germany – Grade: 1.4 (*Very Good*)  
 Focuses on human cognition through an interdisciplinary approach with a wide range of topics in perception, cognition, linguistics, and computation.
 
 **Bachelor of Arts in Linguistics** – *Universität Trier*  
-**Oct. 2020 – Sept. 2023**, Germany – **Grade:** 1.6 (*Good*)  
+Oct. 2020 – Sept. 2023, Germany – Grade: 1.6 (*Good*)  
 Studied English and French linguistics, with a focus on language acquisition and psycholinguistics. Included exchange semesters at Lancaster University (United Kingdom) and the University of Nantes (France).
 
 ---
@@ -141,5 +142,4 @@ Critical thinking, problem solving, analytical skills, adaptability, flexibility
 
 Learning new languages, Chess, Mycology, Cat lover
 
----
 
