@@ -18,11 +18,11 @@ I am a second-year Master's student in Cognitive and Behavioural Neuroscience at
 <div class="desc">Focuses on brain function, genetic factors, plasticity, and clinical neuropsychology, with an emphasis on the molecular and behavioural changes related to neurological conditions that affect cognitive function. </div> 
 
 **Master 1 Cognitive Science at RPTU Kaiserslautern**
-<div class="meta">Oct. 2023 – Sept. 2024, Germany – Grade: 1.4 (*Very Good*)  </div> 
+<div class="meta">Oct. 2023 – Sept. 2024, Germany – Grade: 1.4 (Very Good)  </div> 
 <div class="desc">Focuses on human cognition through an interdisciplinary approach with a wide range of topics in perception, cognition, linguistics, and computation. </div> 
 
 **Bachelor of Arts in Linguistics at Universität Trier**
-<div class="meta">Oct. 2020 – Sept. 2023, Germany – Grade: 1.6 (*Good*) </div> 
+<div class="meta">Oct. 2020 – Sept. 2023, Germany – Grade: 1.6 (Good) </div> 
 <div class="desc">Studied English and French linguistics, with a focus on language acquisition and psycholinguistics. Included exchange semesters at Lancaster University (United Kingdom) and the University of Nantes (France). </div> 
 
 ---
