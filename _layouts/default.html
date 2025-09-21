@@ -42,53 +42,54 @@
                 <br>
         </div>
 
-	{% if site.email %}
-	<div class="icontext">
-        <p class="view"><a href="mailto:{{site.email}}" target="_blank">
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<i id=icon class="material-icons">&#xe0be;</i>
-	<span id="text">E-mail</span>
-	</a></p></div>
-        {% endif %}	
+		<ul class="contact-list">
+		  {% if site.email %}
+		  <li>
+		    <a class="icon-link" href="mailto:{{ site.email }}" target="_blank">
+		      <span class="icon material-icons" aria-hidden="true">email</span>
+		      <span class="label">E-mail</span>
+		    </a>
+		  </li>
+		  {% endif %}
+		
+		  {% if site.cv %}
+		  <li>
+		    <a class="icon-link" href="{{ "/assets/files/.." }}" target="_blank">
+		      <span class="icon fa fa-file-pdf-o" aria-hidden="true"></span>
+		      <span class="label">Resume</span>
+		    </a>
+		  </li>
+		  {% endif %}
+		
+		  {% if site.googlescholar %}
+		  <li>
+		    <a class="icon-link" href="{{ site.googlescholar }}" target="_blank">
+		      <span class="icon material-icons" aria-hidden="true">school</span>
+		      <span class="label">Google Scholar</span>
+		    </a>
+		  </li>
+		  {% endif %}
+		
+		  {% if site.linkedin %}
+		  <li>
+		    <a class="icon-link" href="{{ site.linkedin }}" target="_blank">
+		      <span class="icon fa fa-linkedin" aria-hidden="true"></span>
+		      <span class="label">LinkedIn</span>
+		    </a>
+		  </li>
+		  {% endif %}
+		
+		  {% if site.github_profile or site.github.owner_url %}
+		  <li>
+		    <a class="icon-link" href="{{ site.github_profile | default: site.github.owner_url }}" target="_blank">
+		      <span class="icon fa fa-github" aria-hidden="true"></span>
+		      <span class="label">GitHub</span>
+		    </a>
+		  </li>
+		  {% endif %}
+		</ul>
 
-	{% if site.cv %}
-	<div class="icontext">
-        <p class="view"><a href="{{ "/assets/files/.." }}" target="_blank">
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<i id=icon class="fa">&#xf1c1;</i>
-	<span id="text">Resume</span>
-	</a></p></div>
-        {% endif %}	
-
-        {% if site.googlescholar %}
-	<div class="icontext">
-        <p class="view"><a href="{{ site.googlescholar }}" target="_blank">
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<i id=icon class="material-icons">&#xe80c;</i>
-	<span id="text">Google Scholar</span>
-	</a></p></div>
-        {% endif %}	
-
-        {% if site.linkedin %}
-	<div class="icontext">
-        <p class="view"><a href="{{ site.linkedin }}" target="_blank">
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<i id=icon class="fa">&#xf08c;</i>
-	<span id="text">LinkedIn</span>
-	</a></p></div>
-        {% endif %}
-
-		{% if site.github_profile or site.github.owner_url %}
-	 <div class="icontext">
-		<p class="view">
-	      <a href="{{ site.github_profile | default: site.github.owner_url }}" target="_blank">
-	        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	        <i id="icon" class="fa fa-github"></i>
-	        <span id="text">GitHub</span>
-	      </a>
-	    </p>
-	  </div>
-	{% endif %}
+	
 
         
 	
