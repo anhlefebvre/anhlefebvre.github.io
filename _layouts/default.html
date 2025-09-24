@@ -38,21 +38,25 @@
 
         <p class="view"><a href="{{ site.gitsite }}">GitHub</a></p>
         -->
+        <div style="line-height:150%;">
+                <br>
+        </div>
+
 	{% if site.email %}
 	<div class="icontext">
         <p class="view"><a href="mailto:{{site.email}}" target="_blank">
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<i id=icon class="material-icons">&#xe0be;</i>
-	<span id="text">E-mail</span>
+	<span id="text">&nbsp;&nbsp;Contact me</span>
 	</a></p></div>
         {% endif %}	
 
 	{% if site.cv %}
 	<div class="icontext">
-        <p class="view"><a href="{{ "/assets/files/.." }}" target="_blank">
+        <p class="view"><a href="{{ "/assets/files/CV.pdf" }}" target="_blank">
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<i id=icon class="fa">&#xf1c1;</i>
-	<span id="text">Resume</span>
+	<span id="text">&nbsp;&nbsp;Resume</span>
 	</a></p></div>
         {% endif %}	
 
@@ -61,7 +65,7 @@
         <p class="view"><a href="{{ site.googlescholar }}" target="_blank">
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<i id=icon class="material-icons">&#xe80c;</i>
-	<span id="text">Google Scholar</span>
+	<span id="text">&nbsp;&nbsp;Google Scholar</span>
 	</a></p></div>
         {% endif %}	
 
@@ -70,32 +74,10 @@
         <p class="view"><a href="{{ site.linkedin }}" target="_blank">
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<i id=icon class="fa">&#xf08c;</i>
-	<span id="text">LinkedIn</span>
+	<span id="text">&nbsp;&nbsp;LinkedIn</span>
 	</a></p></div>
         {% endif %}
 
-		{% if site.github_profile or site.github.owner_url %}
-	 <div class="icontext">
-		<p class="view">
-	      <a href="{{ site.github_profile | default: site.github.owner_url }}" target="_blank">
-	        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	        <i id="icon" class="fa fa-github"></i>
-	        <span id="text">GitHub</span>
-	      </a>
-	    </p>
-	  </div>
-	{% endif %}
-	
-
-        
-	
-        {% if site.show_downloads %}
-        <ul class="downloads">
-          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-        </ul>
-        {% endif %}
       </header>
       <section>
 
