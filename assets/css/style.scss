@@ -1,8 +1,13 @@
+---
+---
 
----
----
+@import "{{ site.theme }}";
+
 ul {
   list-style-type: circle;
+  margin-top: -12px;
+  padding-left: 1rem; /* keep indent; adjust if you like */
+  color:#555555;
 }
 
 img {
@@ -31,7 +36,6 @@ img {
         vertical-align: middle;
         font-size: 22px;
       }
-
 
 @import "jekyll-theme-minimal";
 
@@ -64,16 +68,16 @@ img {
 hr.solid {
         border-top: 1px solid #bbbbbbd9;
         margin-bottom:4px;
-        margin-top:2px;
+        margin-top:10px;
       }
 
 .title{
-        line-height: 100%; 
-        color:black; 
-        width : 100%; 
+        line-height: 100%;
+        color:black;
+        width : 100%;
         font-size : 20px;
-        font-weight: 580; 
-        margin-bottom:8px; 
+        font-weight: 580;
+        margin-bottom:8px;
         margin-top:40px;
         font-family:Arial, Helvetica, sans-serif;
         text-align: left
@@ -111,21 +115,23 @@ hr.solid {
 
 .tag {
   display: inline-block;
-  background-color: #e0e0e0;
-  color: #555; 
-  font-size: 14px;
+  background-color: #f2f2f2;
+  color: #888888;
+  font-size: 12px;
   padding: 2px 8px;
-  margin: 2px;
   border-radius: 12px;
+  margin-bottom:10px;
   font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .meta {
-  color: #777;       
-  font-size: 0.9em;  
+  color: #888888;
 }
 
+/* for the education part
+
 .desc {
-  color: #444;        
-  margin-bottom: 8px; /* spacing before next entry */
+  color: #444;
+  margin-bottom: 8px;
 }
+*/
