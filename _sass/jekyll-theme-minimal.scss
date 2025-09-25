@@ -4,20 +4,23 @@
 body {
   background-color: #fff;
   padding:50px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#727272;
+  font: 14px/1.5 "Arial", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#555555; /* colour of the body text */
   font-weight:400;
 }
 
+/*header 1-6*/
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
-  margin:0 0 20px;
+  color:#101214;
+  margin:0 0 10px;
 }
 
-p, ul, ol, table, pre, dl {
-  margin:0 0 20px;
+/* Paragraphs, lists, tables, code blocks */
+p, ol, table, pre, dl {
+  margin:10 0 0 0px;
 }
 
+/*header 1-3*/
 h1, h2, h3 {
   line-height:1.1;
 }
@@ -27,13 +30,19 @@ h1 {
 }
 
 h2 {
-  color:#393939;
+  color:#101214;
+  margin-bottom: 5px;
 }
 
 h3, h4, h5, h6 {
   color:#494949;
 }
 
+h2 + p {
+  margin-top: 2px;                  /* or 0 for ultra-tight */
+}
+
+/*Links*/
 a {
   color:#267CB9;
   text-decoration:none;
