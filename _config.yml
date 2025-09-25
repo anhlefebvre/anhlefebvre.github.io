@@ -2,13 +2,11 @@ title: Anh Tô-Lefebvre
 logo: assets/img/avatar_round.png
 description: Minimal is a theme for GitHub Pages.
 linkedin: https://www.linkedin.com/in/anhlefebvre
-github_profile: https://github.com/anhlefebvre
+github: https://github.com/anhlefebvre
 email: contact@anhlefebvre.fr
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
-remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
 - jekyll-seo-tag
 - jemoji
