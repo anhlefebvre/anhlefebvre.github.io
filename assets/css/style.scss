@@ -5,9 +5,15 @@
 
 ul {
   list-style-type: circle;
-  margin-top: -12px;
   padding-left: 1rem; /* keep indent; adjust if you like */
   color:#555555;
+}
+p + ul {
+  margin-top: -12px;
+}
+
+h2 + ul {
+  margin-top: -3px;
 }
 
 img {
@@ -116,7 +122,7 @@ hr.solid {
 .tag {
   display: inline-block;
   background-color: #f2f2f2;
-  color: #888888;
+  color: #888;
   font-size: 12px;
   padding: 2px 8px;
   border-radius: 12px;
@@ -125,11 +131,25 @@ hr.solid {
 }
 
 .meta {
-  color: #888888;
+  color: #BBB;
 }
 
-/* for the education part
+/*SVG*/
+.icon{
+  width:20px;
+  height:20px;
+  vertical-align:-0.2em;
+  flex:0 0 auto;
+}
 
+a:hover .icon, a:focus .icon{
+  filter: brightness(0) saturate(100%) invert(22%) sepia(98%)
+          saturate(1442%) hue-rotate(182deg) brightness(88%) contrast(98%);
+}
+
+
+
+/*
 .desc {
   color: #444;
   margin-bottom: 8px;

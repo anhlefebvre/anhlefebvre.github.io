@@ -1,0 +1,68 @@
+  Logging at level: debug
+    Jekyll Version: 4.4.1
+Configuration file: /Users/anhlefebvre/Desktop/anhlefebvre.github.io-master/_config.yml
+             Theme: jekyll-theme-minimal
+      Theme source: /Users/anhlefebvre/Desktop/anhlefebvre.github.io-master
+ Theme Config file: /Users/anhlefebvre/Desktop/anhlefebvre.github.io-master/_config.yml
+         Requiring: jekyll-seo-tag
+         Requiring: jekyll-seo-tag
+         Requiring: jemoji
+            Source: /Users/anhlefebvre/Desktop/anhlefebvre.github.io-master
+       Destination: /Users/anhlefebvre/Desktop/anhlefebvre.github.io-master/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+           Reading: /_layouts/default.html
+           Reading: /_layouts/post.html
+       EntryFilter: excluded /Gemfile
+       EntryFilter: excluded /Gemfile.lock
+       EntryFilter: excluded /.jekyll-cache
+           Reading: another-page.md
+           Reading: index.md
+             Theme: Ignoring /assets/css/style.scss in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/files/CV.pdf in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/files/Ling229.pdf in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/files/Ling301.pdf in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/files/Ling326.pdf in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/files/Ling501.pdf in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/files/Ling_301.pdf in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/files/Report_Neuropharmacology.pdf in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/files/learning_behaviour_bumblebee.pdf in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/files/thesis_BA_0309.pdf in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/fonts/Noto-Sans-700/Noto-Sans-700.eot in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/fonts/Noto-Sans-700/Noto-Sans-700.svg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/fonts/Noto-Sans-700/Noto-Sans-700.ttf in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/fonts/Noto-Sans-700/Noto-Sans-700.woff in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/fonts/Noto-Sans-700/Noto-Sans-700.woff2 in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.ttf in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff2 in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/fonts/Noto-Sans-italic/Noto-Sans-italic.eot in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/fonts/Noto-Sans-italic/Noto-Sans-italic.svg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/fonts/Noto-Sans-italic/Noto-Sans-italic.ttf in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/fonts/Noto-Sans-italic/Noto-Sans-italic.woff in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/fonts/Noto-Sans-italic/Noto-Sans-italic.woff2 in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/fonts/Noto-Sans-regular/Noto-Sans-regular.eot in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/fonts/Noto-Sans-regular/Noto-Sans-regular.svg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/fonts/Noto-Sans-regular/Noto-Sans-regular.ttf in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/fonts/Noto-Sans-regular/Noto-Sans-regular.woff in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/fonts/Noto-Sans-regular/Noto-Sans-regular.woff2 in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/avatar.jpeg in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/avatar_round.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/img/logo.png in theme due to existing file with that path in site.
+             Theme: Ignoring /assets/js/scale.fix.js in theme due to existing file with that path in site.
+         Rendering: another-page.md
+  Pre-Render Hooks: another-page.md
+  Rendering Markup: another-page.md
+Post-Convert Hooks: another-page.md
+  Rendering Layout: another-page.md
+         Rendering: index.md
+  Pre-Render Hooks: index.md
+  Rendering Markup: index.md
+Post-Convert Hooks: index.md
+  Rendering Layout: index.md
+           Writing: /Users/anhlefebvre/Desktop/anhlefebvre.github.io-master/_site/another-page.html
+           Writing: /Users/anhlefebvre/Desktop/anhlefebvre.github.io-master/_site/index.html
+                    done in 0.105 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.

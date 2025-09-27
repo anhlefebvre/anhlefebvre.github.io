@@ -4,7 +4,7 @@
 body {
   background-color: #fff;
   padding:50px;
-  font: 14px/1.5 "Arial", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 15px/1.5 "Arial", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#555555; /* colour of the body text */
   font-weight:400;
 }
@@ -113,6 +113,7 @@ img {
   max-width:100%;
 }
 
+
 kbd {
   background-color: #fafbfc;
   border: 1px solid #c6cbd1;
@@ -208,15 +209,20 @@ hr {
   border:0;
   background:#e5e5e5;
   height:1px;
-  margin:0 0 20px;
+  margin-top: 20px;
+  margin-right: 0;
+  margin-bottom: 20px;
+  margin-left: 0;
 }
 
 footer {
   width:270px;
   float:left;
   position:fixed;
+  text-align:left;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
+  color: #888888;
 }
 
 @media print, screen and (max-width: 960px) {
@@ -270,6 +276,27 @@ footer {
   pre, code {
     word-wrap:normal;
   }
+
+  .wrapper header {
+    text-align: center;
+
+  }
+  .wrapper header .iconbox{
+    display:flex;
+    justify-content:center;
+  }
+
+  .wrapper header .icontext{
+    display:flex;
+    justify-content:left;
+  }
+
+  .wrapper header img {
+    display: block;
+    margin: .5rem auto;
+  }
+
+
 }
 
 @media print, screen and (max-width: 480px) {

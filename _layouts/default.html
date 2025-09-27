@@ -16,9 +16,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <!--
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        -->
+
         <h1>{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
@@ -27,55 +25,63 @@
 
         <!-- line under the picture-->
         <div style="line-height:150%;">
-                <br>
         </div>
 
-      	{% if site.email %}
-      	<div class="icontext">
-              <p class="view"><a href="mailto:{{site.email}}" target="_blank">
-      	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <i id=icon class="fa fa-envelope-square"></i>
-      	<span id="text">&nbsp;&nbsp;E-mail</span>
-      	</a></p></div>
-              {% endif %}
-
-        {% if site.linkedin %}
-      	<div class="icontext">
-              <p class="view"><a href="{{ site.linkedin }}" target="_blank">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <i id=icon class="fa fa-linkedin-square"></i>
-
-      	<span id="text">&nbsp;&nbsp;LinkedIn</span>
-      	</a></p></div>
-        {% endif %}
-
-        {% if site.github %}
-        <div class="icontext">
-              <p class="view"><a href="{{ site.github }}" target="_blank">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <i id="icon" class="fa fa-github"></i>
-        <span id="text">&nbsp;&nbsp;GitHub</span>
-        </a></p></div>
+        <div class="iconbox">
+          {% if site.email %}
+          <div class="icontext">
+                <p class="view"><a href="mailto:{{site.email}}" target="_blank">
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <i id=icon class="fa fa-envelope-square"></i>
+          <span id="text">&nbsp;&nbsp;E-mail</span>
+          </a></p></div>
                 {% endif %}
 
+          {% if site.linkedin %}
+          <div class="icontext">
+                <p class="view"><a href="{{ site.linkedin }}" target="_blank">
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <i id=icon class="fa fa-linkedin-square"></i>
 
-        {% if site.cv %}
-      	<div class="icontext">
-              <p class="view"><a href="{{ "/assets/files/CV.pdf" }}" target="_blank">
-      	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      	<i id=icon class="fa">&#xf1c1;</i>
-      	<span id="text">&nbsp;&nbsp;Resume</span>
-      	</a></p></div>
-              {% endif %}
+          <span id="text">&nbsp;&nbsp;LinkedIn</span>
+          </a></p></div>
+          {% endif %}
 
-        {% if site.googlescholar %}
-      	<div class="icontext">
-              <p class="view"><a href="{{ site.googlescholar }}" target="_blank">
-      	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      	<i id=icon class="material-icons">&#xe80c;</i>
-      	<span id="text">&nbsp;&nbsp;Google Scholar</span>
-      	</a></p></div>
+          {% if site.github %}
+          <div class="icontext">
+                <p class="view"><a href="{{ site.github }}" target="_blank">
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <i id="icon" class="fa fa-github"></i>
+          <span id="text">&nbsp;&nbsp;GitHub</span>
+          </a></p></div>
+                  {% endif %}
+
+
+          {% if site.cv %}
+          <div class="icontext">
+                <p class="view"><a href="{{ "/assets/files/CV.pdf" }}" target="_blank">
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <i id=icon class="fa">&#xf1c1;</i>
+          <span id="text">&nbsp;&nbsp;Resume</span>
+          </a></p></div>
                 {% endif %}
+
+          {% if site.googlescholar %}
+          <div class="icontext">
+                <p class="view"><a href="{{ site.googlescholar }}" target="_blank">
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <i id=icon class="material-icons">&#xe80c;</i>
+          <span id="text">&nbsp;&nbsp;Google Scholar</span>
+          </a></p></div>
+                  {% endif %}
+
+        </div>
+
+
+
+
+        <br>
+
 
         </header>
         <section>
@@ -83,7 +89,9 @@
         {{ content }}
 
         </section>
-        <footer> © September 2025
+        <footer>
+          Powered by ☕️ & 🧠 <br>
+          Last update in September 2025
         </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
