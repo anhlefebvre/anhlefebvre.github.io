@@ -3,28 +3,28 @@ layout: default
 ---
 # Neuroscience student 🧠
 
-I am a second-year Master's student in Cognitive and Behavioural Neuroscience at Sorbonne University in France, who have a strong interest in the neural mechanisms of working and long-term episodic memory. I am motivated to understand how memory processes are altered in pathologies, in which memory is affected. I hope to improve my understanding of memory deficits and their impact on our cognition and behaviour.
+I am a second-year Master's student in Cognitive and Behavioural Neuroscience at Sorbonne University in France, who have a strong interest in the neural mechanisms of working and long-term episodic memory. I am motivated to understand how memory processes are altered in pathologies, in which memory is affected. My goal is to pursue a PhD programme in order to deepen my understanding of memory deficits and their impact on cognition and behaviour.
 
 ---
 
 ## Education
-**Master 2 Neurosciences at Sorbonne Université**<br>
-<span class="meta">Sept. 2025 – present, Paris, France</span><br>
+**Master 2 Cognitive and Behavioural Neurosciences at Sorbonne Université**<br>
+<span class="meta">Sept. 2025-present, Paris, France</span><br>
 Focuses on social and emotional brain, neurobiology of psychiatric disorders, neural bases of cognitive functions, spatial navigation and memory.
 
-**Master 1 Neurosciences at Université Toulouse**<br>
-<span class="meta">Sept. 2024 – Aug. 2025, Toulouse, France – Grade: 15/20</span><br>
+**Master 1 Neuropsychology and Clinical Neurosciences at Université Toulouse**<br>
+<span class="meta">Sept. 2024-Aug. 2025, Toulouse, France – Grade: 15/20</span><br>
 Studied neuropsychology and neurobiology with a focus on synaptic plasticity and the genetic factors that contribute to neural function.<br>
 Examined neurological pathologies, with emphasis on the molecular, and behavioural changes.<br>
 
 **Master 1 Cognitive Science at RPTU Kaiserslautern**<br>
-<span class="meta">Oct. 2023 – Sept. 2024, Germany – Grade: 1.4 (Very Good)</span><br>
+<span class="meta">Oct. 2023-Sept. 2024, Germany – Grade: 1.4 (Very Good)</span><br>
 Studied human cognition through diverse studies spanning visual perception, cognition, and linguistics.<br>
 Gained solid grounding in algebra, statistics, and experimental design.<br>
 Improved programming skills through courses on building and implementing experimental designs.
 
 **Bachelor of Arts in Linguistics at Universität Trier**<br>
-<span class="meta">Oct. 2020 – Sept. 2023, Germany – Grade: 1.6 (Good)</span><br>
+<span class="meta">Oct. 2020-Sept. 2023, Germany – Grade: 1.6 (Good)</span><br>
 Studied English and French linguistics with a focus on psycholinguistics, cognition and language acquisition.<br>
 Improve linguistic analysis through computational linguistics and corpus analysis.<br>
 Exchange semesters at Lancaster University (UK) and University of Nantes (France).
@@ -44,7 +44,7 @@ Exchange semesters at Lancaster University (UK) and University of Nantes (France
 
 **Film Researcher Intern at LOOKSfilm**<br>
 <span class="meta">Jan. 2023-April 2023 – 4 months, Germany</span><br>
-- Contributed to a co-production with LOOKSfilm, ZDF, ARTE, and PBS America, producing a 4-episode award-winning documentary series about the Viêt Nam War from a Vietnamese perspective.
+- Contributed to a co-production of LOOKSfilm with ZDF, ARTE, and PBS America, producing a 4-episode award-winning documentary series about the Viêt Nam War from a Vietnamese perspective.
 - Supported the director in scriptwriting, ensuring historical accuracy, and reviewing documentary footage
 - Managed communication with interviewees and collaborators.
 
@@ -59,8 +59,8 @@ Exchange semesters at Lancaster University (UK) and University of Nantes (France
 
 ## Manuscript
 **Internship: Disentangling the Effects of Meaningfulness on Item- and Binding Memory** (In preparation)<br>
-Investigated how semantic meaning influences visual working memory by replicating prior experiments and applying a Bayesian hierarchical framework. The findings showed that meaningful stimuli enhance both item memory and binding memory, thus supporting the Binding Hypothesis.<br>
 <span class="meta">Supervisor: Prof. Klaus Oberauer, Dr. Philipp Musfeld, University of Zurich</span><br>
+Investigated how semantic meaning influences visual working memory by replicating prior experiments and applying a Bayesian hierarchical framework. The findings showed that meaningful stimuli enhance both item memory and binding memory, thus supporting the Binding Hypothesis.<br>
 
 ---
 
@@ -135,11 +135,13 @@ Reviewed fossil anatomy, genetics, and archaeological records to evaluate Neande
 ## Skills
 - **Programming:**
    - Intermediate: Python,
-   - Basics: MATLAB, R, JavaScript, HTML, CSS, Git<br>
+   - Basic: MATLAB, R, JavaScript, HTML, CSS, Git<br>
 - **Experiments:** LabJS, PsychoPy<br>
 - **Statistics:** Bayesian modelling<br>
 - **Linguistics Tools:** Praat, AntConc, NLTK<br>
-- **Software:** Microsoft Office Suite<br>
+- **Software:**
+   - Intermediate: Microsoft Office Suite, Notion, VSCode, PyCharm
+   - Basic: GitHub, RStudio, Figma<br>
 
 ---
 
@@ -161,6 +163,6 @@ Critical thinking, problem solving, analytical skills, adaptability, flexibility
 ---
 
 ## Interests
-- Chess + languages for daily memory "gym".
-- Weekdays: neuroscience; weekends: mycology (fancy word for *mushroom*).
-- Personal assistant to two mischievous cats, Réglisse and Chopin, and any cats I've met on the street.
+- Chess + learning languages for daily memory "gym".
+- Weekdays: neuroscience; weekends: mycology (🍄‍🟫).
+- Personal assistant to two mischievous cats, Lord Réglisse and Lord Chopin, and any cats I've met on the street.
