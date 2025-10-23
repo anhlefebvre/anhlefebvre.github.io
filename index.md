@@ -3,7 +3,12 @@ layout: default
 ---
 # Neuroscience student 🧠
 
-Hello, I am a Master's student of Cognitive Neuroscience at Sorbonne University in France. I am interested in the mechanisms of working memory. Currently, I am working on a project at the University of Zurich, Switzerland, which aims to disentangle the effect of meaningfulness on working memory. The manuscript is in preparation. I will soon be working on optimising the effect of TMS on the individual brain to enhance working memory performance at Karolinska Institutet in Sweden.I enjoy working in cognitive psychology, neuroscience, computational modelling and neural signal analysis.
+Hello,  I'm Anh, and I'm a Master's student of Cognitive Neuroscience at Sorbonne University in France. I enjoy working in cognitive psychology, neuroscience, computational modelling and neural data analysis.
+
+At the moment, I’m collaborating on a project which aims to disentangle the effect of meaningfulness on working memory. This study grew out of my internship at the Cognitive Psychology Lab at the University of Zürich in Switzerland, and our manuscript is currently in preparation.
+
+I’ll soon be joining a project at the Karolinska Institutet in Sweden, to investigate how stimulating alpha synchrony with TMS might enhance working memory performance.
+
 
 ---
 
@@ -22,7 +27,7 @@ Examined neurological pathologies, with emphasis on the molecular, and behaviour
 Studied human cognition through visual perception, cognition, and linguistics.<br>
 Learned linear algebra, statistics, and experimental design.<br>
 Improved programming skills through courses on building and implementing experimental designs.<br>
-Eventually dropped out to focus more on Neuroscience.<br>
+Quickly became more interested in Neuroscience and decided to refocus my study to this direction. <br>
 
 **Bachelor of Arts in Linguistics at Universität Trier**<br>
 <span class="meta">Oct. 2020-Sept. 2023, Germany (Grade: 1.6, good)</span><br>
@@ -44,11 +49,11 @@ Exchange semesters at Lancaster University (UK) and University of Nantes (France
 - Analysed signal data from epilepsy patients using MNE-Python, focusing on hippocampal EEG and eye movements.
 
 **Film Researcher Intern at LOOKSfilm**<br>
-<span class="meta">Jan. 2023-April 2023 | 4 months | Paris (France)</span><br>
+<span class="meta">Jan. 2023-April 2023 | 4 months | Germany (remote)</span><br>
 - Contributed to a co-production of LOOKSfilm with ZDF, ARTE, and PBS America, producing a 4-episode documentary series about the Vietnam War featuring rare and unpublished footage.
 - Supported the director in scriptwriting, ensuring historical accuracy, and reviewing documentary footage.
 - Managed communication with interviewees and collaborators.
-- The project was selected and awarded at the [*2023 Sunny Side of the Doc Pitch Sessions*](https://www.sunnysideofthedoc.com/palmares/official-selection-ssd23/).
+- The project was selected and awarded at the [2023 Sunny Side of the Doc Pitch Sessions](https://www.sunnysideofthedoc.com/palmares/official-selection-ssd23/){:target="_blank"}.
 
 **International Tour Guide at Withlocals / EXO Travel**  
 <span class="meta">2015-2019 | 4½ years | Vietnam </span><br>
@@ -61,7 +66,7 @@ Exchange semesters at Lancaster University (UK) and University of Nantes (France
 
 ## Manuscript
 **Internship: Disentangling the Effects of Meaningfulness on Item- and Binding Memory** (In preparation)<br>
-Supervisor: Prof. Klaus Oberauer, Dr. Philipp Musfeld, University of Zurich<br>
+Supervisor: Prof. Klaus Oberauer, Dr. Philipp Musfeld, University of Zürich<br>
 Investigated how semantic meaning influences visual working memory by replicating prior experiments and applying a Bayesian hierarchical framework. The findings showed that meaningful stimuli enhance both item memory and binding memory, thus supporting the Binding Hypothesis.<br>
 
 ---
@@ -74,7 +79,7 @@ Investigated how semantic meaning influences visual working memory by replicatin
 <span class="project-title"><strong>Report: Assessment of Two Unknown Compounds in Depression-like and Anxiety Behaviour in Wild-Type SWISS Mice</strong></span><br>
 <span class="meta">Seminar: Neuropharmacology (2024)</span><br>
 Tested two novel compounds for antidepressant and anxiolytic effects in a murine model using behavioural paradigms (OFT, EPM, TST). Results suggested potential antidepressant properties for one compound, though further research is needed to confirm efficacy.<br>
-<a href="/assets/files/Report_Neuropharmacology.pdf" title="Assessment of Two Unknown Compounds in Depression-like and Anxiety Behaviour in Wild-Type SWISS mice">
+<a href="/assets/files/Report_Neuropharmacology.pdf" title="Assessment of Two Unknown Compounds in Depression-like and Anxiety Behaviour in Wild-Type SWISS mice" target="_blank" rel="noopener noreferrer">
   <img src="/assets/icon/File.svg" class="icon" alt="File icon"> Read report (PDF)
 </a><br>
 <span class="tag">Murine Behavioural Experiments</span>
@@ -85,7 +90,7 @@ Tested two novel compounds for antidepressant and anxiolytic effects in a murine
 <span class="project-title"><strong>Report: Learning Behaviour in Bumblebees: An Analysis with a Control Group</strong></span><br>
 <span class="meta">Seminar: Introduction to R language (2024)</span><br>
 Analysed learning behaviour of bumblebees (Bombus terrestris) in a Y-maze using trajectory data from 187 trials. Results showed improved navigation speed and preference for reinforced cues over successive trials, establishing a baseline for stressor studies.<br>
-<a href="/assets/files/learning_behaviour_bumblebee.pdf" title="Learning Behaviour in Bumblebees — An Analysis with a Control Group">
+<a href="/assets/files/learning_behaviour_bumblebee.pdf" title="Learning Behaviour in Bumblebees — An Analysis with a Control Group" target="_blank" rel="noopener noreferrer">
   <img src="/assets/icon/File.svg" class="icon" alt="File icon"> Read report (PDF)
 </a><br><span class="tag">Animal Behavioural Data Analysis</span>
 <span class="tag">R language</span><br><br>
@@ -94,8 +99,8 @@ Analysed learning behaviour of bumblebees (Bombus terrestris) in a Y-maze using 
 <span class="meta">Internship (2024)</span><br>
 Supervisor: Dr. Christoph Huber-Huber, CIMeC<br>
 Developing Python script to extract, preprocess, and visualise hippocampal LFP data from NWB files. Implemented filtering, event annotation, and channel selection to prepare data for time-locked analyses.<br>
-<a href="https://github.com/chsquare/tgazeieeg2/tree/anh" title="Neurodata Analysis of Hippocampal Recordings — GitHub">
-  <img src="/assets/icon/File.svg" class="icon" alt="Repository icon"> Consult the project (GitHub)
+<a href="https://github.com/chsquare/tgazeieeg2/tree/anh" title="Neurodata Analysis of Hippocampal Recordings — GitHub" target="_blank" rel="noopener noreferrer">
+  <img src="/assets/icon/github.svg" class="icon" alt="Repository icon"> Consult the project (GitHub)
 </a><br>
 <span class="tag">Python</span>
 <span class="tag">MNE-Python</span>
@@ -109,7 +114,7 @@ Developing Python script to extract, preprocess, and visualise hippocampal LFP d
 <span class="project-title"><strong>Les Gros Mots en français : quand la linguistique de corpus rencontre la sociolinguistique (English title: Swearing in French: when corpus linguistics meets sociolinguistics)</strong></span><br>
 <span class="meta">Bachelor thesis, supervisor: Dr. Hanna Merk (2023)</span><br>
 Analysed Quebec French swear word usage in the corpus of spoken Quebec French - CFPQ. Examined frequency, morphology, and euphemistic forms. Found that men swear more frequently overall, but women use swear words as often as men in same-sex conversations; women and older speakers favour euphemisms, and swearing peaks in speakers’ twenties.<br>
-<a href="/assets/files/thesis_BA_0309.pdf" title="Read thesis (PDF)">
+<a href="/assets/files/thesis_BA_0309.pdf" title="Read thesis (PDF)" target="_blank" rel="noopener noreferrer">
   <img src="/assets/icon/File.svg" class="icon" alt="File icon"> Read thesis (PDF)
 </a><br>
 <span class="tag">AntConc</span>
@@ -128,7 +133,7 @@ Conducted a computational linguistics study comparing 300 fake and 300 real hote
 <span class="project-title"><strong>Corpus-Based Sociolinguistic Analysis of the Swearword “Fuck” in Spoken British English</strong></span><br>
 <span class="meta">Seminar: Corpus-based English Language Studies (2023)</span><br>
 Analysed over 700 occurrences of the word 'fuck' and its variants in the BNC2014 corpus, showing that men use the word nearly twice as often as women, with the highest frequency among students and speakers aged 20–30. Frequent idiomatic patterns (e.g. 'fucking hell', 'what the fuck', 'fuck off') and auxiliary/emphatic uses were identified as the most common pragmatic functions.<br>
-<a href="/assets/files/Ling326.pdf" title="Read report (PDF)">
+<a href="/assets/files/Ling326.pdf" title="Read report (PDF)" target="_blank" rel="noopener noreferrer">
   <img src="/assets/icon/File.svg" class="icon" alt="File icon"> Read report (PDF)
 </a><br>
 <span class="tag">BNClab</span>
@@ -137,7 +142,7 @@ Analysed over 700 occurrences of the word 'fuck' and its variants in the BNC2014
 <span class="project-title"><strong>Grammatical Functions of the Non-auxiliary *Can* in Singapore English Texting</strong></span><br>
 <span class="meta">Seminar: Contact varieties of English (2022)</span><br>
 Analysed 1,121 tokens of can from a Singaporean SMS corpus to investigate non-standard grammatical functions beyond auxiliary use. Found five distinct non-auxiliary roles (affirmative response, tag question, verb, discourse marker, serial verb), showing systematic substrate influence and identity-marking in Colloquial Singapore English.<br>
-<a href="/assets/files/Ling501.pdf" title="Read report (PDF)">
+<a href="/assets/files/Ling501.pdf" title="Read report (PDF)" target="_blank" rel="noopener noreferrer">
   <img src="/assets/icon/File.svg" class="icon" alt="File icon"> Read report (PDF)
 </a><br>
 <span class="tag">Corpus Linguistics</span>
@@ -148,7 +153,7 @@ Analysed 1,121 tokens of can from a Singaporean SMS corpus to investigate non-st
 <span class="project-title"><strong>The Combination of Gesture and Speech during Parent-Child Interaction: A Longitudinal Case Study</strong></span><br>
 <span class="meta">Seminar: Semantics (2022)</span><br>
 Analysed CHILDES video corpus of a monolingual British child (12–24 months) to examine gesture-speech use in natural parent-child interaction. Found that children gradually shift from imitating parental gestures to using them strategically for communication, with pointing strongly linked to early speech.<br>
-<a href="/assets/files/Ling301.pdf" title="Read report (PDF)">
+<a href="/assets/files/Ling301.pdf" title="Read report (PDF)" target="_blank" rel="noopener noreferrer">
   <img src="/assets/icon/File.svg" class="icon" alt="File icon"> Read report (PDF)
 </a><br>
 <span class="tag">Corpus Analysis</span>
@@ -161,7 +166,7 @@ Analysed CHILDES video corpus of a monolingual British child (12–24 months) to
 <span class="project-title"><strong>Essay: Could Neanderthals speak?</strong></span><br>
 <span class="meta">Seminar: Language Evolution and Origin (2023)</span><br>
 Reviewed fossil anatomy, genetics, and archaeological records to evaluate Neanderthal speech and symbolic communication. Concluded that Neanderthals likely possessed some spoken language and symbolic behaviour, though not identical to modern humans.<br>
-<a href="/assets/files/Ling229.pdf" title="Read report (PDF)">
+<a href="/assets/files/Ling229.pdf" title="Read report (PDF)" target="_blank" rel="noopener noreferrer">
   <img src="/assets/icon/File.svg" class="icon" alt="File icon"> Read report (PDF)
 </a><br><br>
 </details>
