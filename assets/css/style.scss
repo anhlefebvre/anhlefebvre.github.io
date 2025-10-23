@@ -147,7 +147,12 @@ a:hover .icon, a:focus .icon{
           saturate(1442%) hue-rotate(182deg) brightness(88%) contrast(98%);
 }
 
-
+details > summary {
+  font-size: 1.25rem;       /* larger text */
+  font-weight: 700;         /* bold */
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
 
 /*
 .desc {
