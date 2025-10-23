@@ -137,7 +137,7 @@ Analysed over 700 occurrences of the word 'fuck' and its variants in the BNC2014
   <img src="/assets/icon/File.svg" class="icon" alt="File icon"> Read report (PDF)
 </a><br>
 <span class="tag">BNClab</span>
-<br>
+<br><br>
 
 <span class="project-title"><strong>Grammatical Functions of the Non-auxiliary *Can* in Singapore English Texting</strong></span><br>
 <span class="meta">Seminar: Contact varieties of English (2022)</span><br>
@@ -166,9 +166,25 @@ Analysed CHILDES video corpus of a monolingual British child (12–24 months) to
 <span class="project-title"><strong>Essay: Could Neanderthals speak?</strong></span><br>
 <span class="meta">Seminar: Language Evolution and Origin (2023)</span><br>
 Reviewed fossil anatomy, genetics, and archaeological records to evaluate Neanderthal speech and symbolic communication. Concluded that Neanderthals likely possessed some spoken language and symbolic behaviour, though not identical to modern humans.<br>
-<a href="/assets/files/Ling229.pdf" title="Read report (PDF)" target="_blank" rel="noopener noreferrer">
-  <img src="/assets/icon/File.svg" class="icon" alt="File icon"> Read report (PDF)
+<a href="/assets/files/Ling229.pdf" title="Read essay (PDF)" target="_blank" rel="noopener noreferrer">
+  <img src="/assets/icon/File.svg" class="icon" alt="File icon"> Read essay (PDF)
 </a><br><br>
+
+<span class="project-title"><strong>Essay: La modernité et Baudelaire (En: Modernity and Baudelaire)</strong></span><br>
+<span class="meta">Seminar: Littérature française XIXe-XXe siècle – TD Baudelaire (2021)</span><br>
+Reviewed the notion of modernity through Les fleurs du Mal through blending classical verse with a new aesthetic concepts in which beauty can arise from ugliness.<br>
+<a href="/assets/files/Beaudelaire.pdf" title="Read essay (PDF)" target="_blank" rel="noopener noreferrer">
+  <img src="/assets/icon/File.svg" class="icon" alt="File icon"> Read essay (PDF)
+</a><br><br>
+
+<span class="project-title"><strong>Essay: Jaccottet et l’influence du haïku (En: Jaccottet and the influence of Haiku)</strong></span><br>
+<span class="meta">Seminar: Littérature française (2020)</span><br>
+Discussed how the delicate Japanese art of haiku influenced Philippe Jaccottet’s poetry, analysed how this inspiration appears even through the quiet harmony of his own style. A deep exploration of simplicity, light, and poetic clarity.
+<br>
+<a href="/assets/files/Jaccottet.pdf" title="Read essay (PDF)" target="_blank" rel="noopener noreferrer">
+  <img src="/assets/icon/File.svg" class="icon" alt="File icon"> Read essay (PDF)
+</a><br><br>
+
 </details>
 
 ---
