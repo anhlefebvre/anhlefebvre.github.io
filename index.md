@@ -3,12 +3,11 @@ layout: default
 ---
 # Neuroscience student 🧠
 
-Hello,  I'm Anh, and I'm a Master's student of Cognitive Neuroscience at Sorbonne University in France. I enjoy working in cognitive psychology, neuroscience, computational modelling and neural data analysis.
+Hello,  I'm Anh - a Neuroscience student at Sorbonne University in France. I enjoy working in cognitive psychology, neuroscience, computational modelling and neural data analysis.
 
-At the moment, I’m collaborating on a project which aims to disentangle the effect of meaningfulness on working memory. This study grew out of my internship at the Cognitive Psychology Lab at the University of Zürich in Switzerland, and our manuscript is currently in preparation.
+Besides my study, I’m collaborating on a project which aims to disentangle the effect of meaningfulness on working memory. This study grew out of my internship at the Cognitive Psychology Lab at the University of Zürich in Switzerland, and our manuscript is currently in preparation.
 
 I’ll soon be joining a project at the Karolinska Institutet in Sweden, to investigate how stimulating alpha synchrony with TMS might enhance working memory performance.
-
 
 ---
 
@@ -18,7 +17,7 @@ I’ll soon be joining a project at the Karolinska Institutet in Sweden, to inve
 Focuses on social and emotional brain, neurobiology of psychiatric disorders, neural bases of cognitive functions, spatial navigation and memory.
 
 **Master 1 Neuropsychology and Clinical Neurosciences at Université Toulouse**<br>
-<span class="meta">Sept. 2024-Aug. 2025, Toulouse, France (Grade: 15/20)</span><br>
+<span class="meta">Sept. 2024-Aug. 2025, Toulouse, France (Grade: 15/20, good)</span><br>
 Studied neuropsychology and neurobiology with a focus on synaptic plasticity and the genetic factors that contribute to neural function.<br>
 Examined neurological pathologies, with emphasis on the molecular, and behavioural changes.<br>
 
@@ -27,7 +26,7 @@ Examined neurological pathologies, with emphasis on the molecular, and behaviour
 Studied human cognition through visual perception, cognition, and linguistics.<br>
 Learned linear algebra, statistics, and experimental design.<br>
 Improved programming skills through courses on building and implementing experimental designs.<br>
-Quickly became more interested in Neuroscience and decided to refocus my study to this direction. <br>
+Discontinued the program to pursue a Master’s degree with a stronger focus on Neuroscience.  <br>
 
 **Bachelor of Arts in Linguistics at Universität Trier**<br>
 <span class="meta">Oct. 2020-Sept. 2023, Germany (Grade: 1.6, good)</span><br>
@@ -38,18 +37,29 @@ Exchange semesters at Lancaster University (UK) and University of Nantes (France
 ---
 
 ## Work Experience
+**Research Intern at Developmental Neuroscience, Karolinska Institutet**<br>
+<span class="meta">Feb. 2026-July 2026 | 6 months | Sweden</span><br>
+Supervisor: Prof. Torkel Klingberg, Dr. Julia Ericson, Karolinska Institutet<br>
+- Investigate the role of low-frequency TMS [10 Hz] applied on the Dorsal Attention Network (DAN) to strengthen alpha synchronisation which is important to enhance working memory performance.
+- Responsible for programming, and data analysis.
+- This project is part of Master Thesis.
+
+
 **Research Intern at Cognitive Psychology, University of Zürich**<br>
 <span class="meta">Mar. 2025-June 2025 | 3 months | Switzerland</span><br>
+Supervisor: Prof. Klaus Oberauer, Dr. Philipp Musfeld, University of Zürich<br>
 - Disentangled the effect of meaningfulness on binding and item memory.  
 - Responsible for experimental design, programming, and data analysis.
 
 **Research Intern at CIMeC, University of Trento**<br>
 <span class="meta">July 2024-Aug. 2024 | 2 months | Italy</span><br>
+Supervisor: Prof. Christoph Huber-Huber, CIMeC, Italy<br>
 - Contributed to the #EEGManyLabs replication of Mathewson et al. (2009) on alpha phase and visual perception by conducting EEG sessions.  
 - Analysed signal data from epilepsy patients using MNE-Python, focusing on hippocampal EEG and eye movements.
 
 **Film Researcher Intern at LOOKSfilm**<br>
 <span class="meta">Jan. 2023-April 2023 | 4 months | Germany (remote)</span><br>
+Supervisor: Lucio Mollica<br>
 - Contributed to a co-production of LOOKSfilm with ZDF, ARTE, and PBS America, producing a 4-episode documentary series about the Vietnam War featuring rare and unpublished footage.
 - Supported the director in scriptwriting, ensuring historical accuracy, and reviewing documentary footage.
 - Managed communication with interviewees and collaborators.
@@ -99,9 +109,9 @@ Analysed learning behaviour of bumblebees (Bombus terrestris) in a Y-maze using 
 <span class="meta">Internship (2024)</span><br>
 Supervisor: Dr. Christoph Huber-Huber, CIMeC<br>
 Developing Python script to extract, preprocess, and visualise hippocampal LFP data from NWB files. Implemented filtering, event annotation, and channel selection to prepare data for time-locked analyses.<br>
-<a href="https://github.com/chsquare/tgazeieeg2/tree/anh" title="Neurodata Analysis of Hippocampal Recordings — GitHub" target="_blank" rel="noopener noreferrer">
+<!--<a href="https://github.com/chsquare/tgazeieeg2/tree/anh" title="Neurodata Analysis of Hippocampal Recordings — GitHub" target="_blank" rel="noopener noreferrer">
   <img src="/assets/icon/github.svg" class="icon" alt="Repository icon"> Consult the project (GitHub)
-</a><br>
+</a><br>-->
 <span class="tag">Python</span>
 <span class="tag">MNE-Python</span>
 <span class="tag">LFP Signal Processing</span>
@@ -173,7 +183,7 @@ Reviewed fossil anatomy, genetics, and archaeological records to evaluate Neande
 <span class="project-title"><strong>Essay: La modernité et Baudelaire (En: Modernity and Baudelaire)</strong></span><br>
 <span class="meta">Seminar: Littérature française XIXe-XXe siècle – TD Baudelaire (2021)</span><br>
 Reviewed the notion of modernity through Les fleurs du Mal through blending classical verse with a new aesthetic concepts in which beauty can arise from ugliness.<br>
-<a href="/assets/files/Beaudelaire.pdf" title="Read essay (PDF)" target="_blank" rel="noopener noreferrer">
+<a href="/assets/files/Baudelaire.pdf" title="Read essay (PDF)" target="_blank" rel="noopener noreferrer">
   <img src="/assets/icon/File.svg" class="icon" alt="File icon"> Read essay (PDF)
 </a><br><br>
 
