@@ -3,18 +3,16 @@ layout: default
 ---
 # Neuroscience student 🧠
 
-Hello,  I'm Anh - a Neuroscience student at Sorbonne University in France. I enjoy working in cognitive psychology, neuroscience, computational modelling and neural data analysis.
+Hello,  I'm Anh - a Neuroscience student at Sorbonne University in France. I enjoy working in cognitive psychology, neuroscience, computational modelling and neural data analysis. My research interests centre around the mechanisms underlying working memory and how alterations to these mechanisms can lead to atypical behaviour and psychiatric symptoms.
 
-Besides my study, I’m collaborating on a project which aims to disentangle the effect of meaningfulness on working memory. This study grew out of my internship at the Cognitive Psychology Lab at the University of Zürich in Switzerland, and our manuscript is currently in preparation.
-
-I’ll soon be joining a project at the Karolinska Institutet in Sweden, to investigate how stimulating alpha synchrony with TMS might enhance working memory performance.
+I’m currently working as an intern at the Karolinska Institutet in Sweden, investigating how TMS enhance working memory performance.
 
 ---
 
 ## Education
 **Master 2 Cognitive and Behavioural Neurosciences at Sorbonne Université**<br>
 <span class="meta">Sept. 2025-present, Paris, France</span><br>
-Focuses on social and emotional brain, neurobiology of psychiatric disorders, neural bases of cognitive functions, spatial navigation and memory.
+Focuse on social and emotional brain, neurobiology of psychiatric disorders, glial neuropathology, spatial navigation and memory.
 
 **Master 1 Neuropsychology and Clinical Neurosciences at Université Toulouse**<br>
 <span class="meta">Sept. 2024-Aug. 2025, Toulouse, France (Grade: 15/20, good)</span><br>
@@ -40,7 +38,7 @@ Exchange semesters at Lancaster University (UK) and University of Nantes (France
 **Research Intern at Developmental Neuroscience, Karolinska Institutet**<br>
 <span class="meta">Feb. 2026-July 2026 | 6 months | Sweden</span><br>
 Supervisor: Prof. Torkel Klingberg, Dr. Julia Ericson, Karolinska Institutet<br>
-- Investigate the role of low-frequency TMS [10 Hz] applied on the Dorsal Attention Network (DAN) to strengthen alpha synchronisation which is important to enhance working memory performance.
+- Investigated the role of low-frequency TMS applied on the Dorsal Attention Network (DAN) to strengthen alpha synchronisation which is important to enhance working memory performance.
 - Responsible for programming, and data analysis.
 - This project is part of Master Thesis.
 
@@ -84,7 +82,7 @@ Investigated how semantic meaning influences visual working memory by replicatin
 ## Academic Projects
 
 <details>
-<summary><strong>Neuroscience</strong></summary>
+<summary><strong>Neuroscience</strong></summary>w
 
 <span class="project-title"><strong>Report: Assessment of Two Unknown Compounds in Depression-like and Anxiety Behaviour in Wild-Type SWISS Mice</strong></span><br>
 <span class="meta">Seminar: Neuropharmacology (2024)</span><br>
@@ -230,6 +228,6 @@ Critical thinking, problem solving, analytical skills, adaptability, flexibility
 ---
 
 ## Interests
-- Chess + learning languages for daily memory "gym".
-- Weekdays: neuroscience; weekends: mycology (🍄‍🟫).
-- Personal assistant to two mischievous cats, Lord Réglisse and Lord Chopin, and any cats I've met on the street.
+- I'm an amateur mycologist who is fascinated with fungi ecology and flavour
+- On a quest to find the best croissant 🥐 and pho 🍲 in every town I visit
+- Chess
