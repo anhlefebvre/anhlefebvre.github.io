@@ -82,7 +82,7 @@ Investigated how semantic meaning influences visual working memory by replicatin
 ## Academic Projects
 
 <details>
-<summary><strong>Neuroscience</strong></summary>w
+<summary><strong>Neuroscience</strong></summary>
 
 <span class="project-title"><strong>Report: Assessment of Two Unknown Compounds in Depression-like and Anxiety Behaviour in Wild-Type SWISS Mice</strong></span><br>
 <span class="meta">Seminar: Neuropharmacology (2024)</span><br>
