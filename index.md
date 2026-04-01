@@ -7,12 +7,14 @@ Hello,  I'm Anh - a Neuroscience student at Sorbonne University in France. I enj
 
 I’m currently working as an intern at the Karolinska Institutet in Sweden, investigating how TMS enhance working memory performance.
 
+Besides research, I enjoy living as a local in different countries. Why? I think that every culture is beautiful in its own way, and a holiday is too short to truly understand it. Also, the food is great, and interesting people can be found everywhere in the world. I hope this helps you better understand my CV.
+
 ---
 
 ## Education
 **Master 2 Cognitive and Behavioural Neurosciences at Sorbonne Université**<br>
-<span class="meta">Sept. 2025-present, Paris, France</span><br>
-Focuse on social and emotional brain, neurobiology of psychiatric disorders, glial neuropathology, spatial navigation and memory.
+<span class="meta">Sept. 2025-present, Paris, France (Grade: 16/20, very good)</span><br>
+Focused on social and emotional brain, neurobiology of psychiatric disorders, glial neuropathology, spatial navigation and memory.
 
 **Master 1 Neuropsychology and Clinical Neurosciences at Université Toulouse**<br>
 <span class="meta">Sept. 2024-Aug. 2025, Toulouse, France (Grade: 15/20, good)</span><br>
@@ -38,7 +40,7 @@ Exchange semesters at Lancaster University (UK) and University of Nantes (France
 **Research Intern at Developmental Neuroscience, Karolinska Institutet**<br>
 <span class="meta">Feb. 2026-July 2026 | 6 months | Sweden</span><br>
 Supervisor: Prof. Torkel Klingberg, Dr. Julia Ericson, Karolinska Institutet<br>
-- Investigated the role of low-frequency TMS applied on the Dorsal Attention Network (DAN) to strengthen alpha synchronisation which is important to enhance working memory performance.
+- Investigated TMS propagation applied to the Dorsal Attention Network (DAN) and alpha synchronisation in enhancing working memory performance.
 - Responsible for programming, and data analysis.
 - This project is part of Master Thesis.
 
@@ -228,6 +230,6 @@ Critical thinking, problem solving, analytical skills, adaptability, flexibility
 ---
 
 ## Interests
-- I'm an amateur mycologist who is fascinated with fungi ecology and flavour
+- I'm an amateur mycologist who spend weekend looking on the ground and wonder what I can eat (or not)
 - On a quest to find the best croissant 🥐 and pho 🍲 in every town I visit
 - Chess
